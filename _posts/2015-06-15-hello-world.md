@@ -18,7 +18,7 @@ def show
 end
 {% endhighlight %}
 
-```javascript
+```js
 function test(){
     var i = 0;
     console.log(++i);//this result
