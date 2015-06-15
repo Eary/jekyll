@@ -46,7 +46,8 @@ url:         http://zooo.club
 # rdiscount:
 #   extensions: []
 
-# redcarpet:
+redcarpet:
+    fenced_code_blocks: true
 #   extensions: []
 
 # kramdown:
