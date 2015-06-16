@@ -20,8 +20,8 @@ highlighter: pygments
 # paginate_path: 'page:num'
 # paginate:      nil
 
-# markdown:      maruku
-# markdown_ext:  markdown,mkd,mkdn,md
+markdown:      maruku
+markdown_ext:  markdown,mkd,mkdn,md
 # textile_ext:   textile
 
 # excerpt_separator: "\n\n"
