@@ -31,7 +31,7 @@ markdown_ext:  markdown,mkd,mkdn,md
 # server:      false    # deprecated
 #host:        0.0.0.0
 #port:        4000
-baseurl:     /
+baseurl:     /jekyll
 #url:         http://zooo.club
 #lsi:         false
 
